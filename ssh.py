@@ -48,7 +48,7 @@ try:
 
 
     def menu_header():
-        print(Color.YELLOW +
+        print(Color.BLUE +
 
             '''
                 [Crl + C]  Para Parar o Programa
@@ -59,7 +59,7 @@ try:
             [4] Restart Serviço
             [5] Status do Serviço
             '''
-        + Color.RESET)
+        )
 
         choice = int(input(">> "))
 
