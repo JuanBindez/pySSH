@@ -4,7 +4,7 @@
 
 ### v1.0.1:
 
-- correç
+- corrigido bugs
 
 ### v1.0.0:
 
